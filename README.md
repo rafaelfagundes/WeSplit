@@ -6,9 +6,9 @@ WeSplit is a simple iOS application designed to help users split a check among a
 
 - Heavily inspired by the "100 Days of SwiftUI" course by Paul Hudson.
 
-## Screenshots
+## Screenshot
 
-![WeSplit Screenshot](./screenshot.png)
+<img src="screenshot.png" style="width: 400px;" />
 
 ## Installation
 
